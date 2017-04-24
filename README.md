@@ -1,2 +1,3 @@
 # teach-me
 Newbie experiment
+Hello!Fairly intelligent person, new to the coding world, looking to learn...
